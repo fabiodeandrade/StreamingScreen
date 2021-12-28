@@ -1,6 +1,6 @@
 # Movie Screen - Exercitando React, Styled Components e Sass
  
-![appCover](src\Assets\cover.png)
+![appCover](https://i.ibb.co/WFhsL0z/cover.png)
 ![](https://img.shields.io/badge/F%C3%A1bio%20de%20Andrade-React.JS-green) ![](https://img.shields.io/badge/Styled-Components-blue) ![](https://img.shields.io/badge/CCS3-SASS-red)
  
 ### 🎛️ Dependencias
